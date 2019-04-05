@@ -1,0 +1,12 @@
+Package: rmedits
+Title: Scripts for generating sumary statistics, analyses, plots and report documents for The Quality Evaluation of DCF data for data limited Information in the Mediterranean Sea.
+Version: 1.0
+Authors@R: person("Francesco", "Ferretti", email = "ferretti@stanford.edu", role = c("aut", "cre"))
+Author: Francesco Ferretti [aut, cre]
+Maintainer: Francesco Ferretti <ferretti@stanford.edu>
+Description: What the package does (one paragraph).
+Depends: R (>= 3.3.1)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
